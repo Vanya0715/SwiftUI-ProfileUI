@@ -20,5 +20,3 @@ iOS-16
 
 
 ## Screenshot
-
-/Users/divyanshdwivedi/Desktop/Simulator Screen Shot - iPhone 13 - 2022-06-29 at 12.37.35.png
